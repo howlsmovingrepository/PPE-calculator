@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mangus supplies calculator", "mangus supplies calculator.csproj", "{AA82BF8D-9BB9-46A2-B1B6-35F98D36DAC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA82BF8D-9BB9-46A2-B1B6-35F98D36DAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA82BF8D-9BB9-46A2-B1B6-35F98D36DAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA82BF8D-9BB9-46A2-B1B6-35F98D36DAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA82BF8D-9BB9-46A2-B1B6-35F98D36DAC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCAB8344-CD6C-4367-8299-088C2D3C487B}
+	EndGlobalSection
+EndGlobal

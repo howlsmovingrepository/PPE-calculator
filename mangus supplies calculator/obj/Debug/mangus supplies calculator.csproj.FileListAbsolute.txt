@@ -1,0 +1,30 @@
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\bin\Debug\mangus supplies calculator.exe.config
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\bin\Debug\mangus supplies calculator.exe
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\bin\Debug\mangus supplies calculator.pdb
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.csprojAssemblyReference.cache
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\MainWindow.g.cs
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\App.g.cs
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator_MarkupCompile.cache
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator_MarkupCompile.lref
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\MainWindow.baml
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.g.resources
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\mangus_supplies_calculator.Properties.Resources.resources
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.csproj.GenerateResource.cache
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.csproj.CoreCompileInputs.cache
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.exe
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.pdb
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\bin\Debug\mangus supplies calculator.exe.config
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\bin\Debug\mangus supplies calculator.exe
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\bin\Debug\mangus supplies calculator.pdb
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.csprojAssemblyReference.cache
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\MainWindow.g.cs
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\App.g.cs
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator_MarkupCompile.cache
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator_MarkupCompile.lref
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\MainWindow.baml
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.g.resources
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\mangus_supplies_calculator.Properties.Resources.resources
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.csproj.GenerateResource.cache
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.csproj.CoreCompileInputs.cache
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.exe
+C:\Users\13177\Desktop\Fall 2020\S308\lets try\ammangus_A1\lets try\mangus supplies calculator\obj\Debug\mangus supplies calculator.pdb

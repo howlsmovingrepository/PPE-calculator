@@ -1,0 +1,30 @@
+﻿<Window x:Name="abox" x:Class="mangus_supplies_calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mangus_supplies_calculator"
+        mc:Ignorable="d"
+        Title="Supplies Calculator" Height="400" Width="600" ResizeMode="NoResize">
+    <Grid>
+        <TextBox x:Name="txtprof" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="138,53,0,0"/>
+        <Label x:Name="lblprof" Content="Professors" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,49,0,0"/>
+        <TextBox x:Name="txtstu" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="138,84,0,0"/>
+        <Label x:Name="lblstu" Content="Students" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,80,0,0"/>
+        <TextBox x:Name="txtstaff" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="138,115,0,0"/>
+        <Label x:Name="lblstaff" Content="Staff" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,111,0,0"/>
+        <TextBox x:Name="txtmask" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="138,201,0,0" IsEnabled="False"/>
+        <Label x:Name="lblmask" Content="Masks" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,197,0,0"/>
+        <TextBox x:Name="txtsani" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="138,232,0,0" IsEnabled="False"/>
+        <Label x:Name="lblsani" Content="Sanitizers" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,228,0,0"/>
+        <TextBox x:Name="txtglove" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="138,259,0,0" IsEnabled="False"/>
+        <Label x:Name="lblglove" Content="Gloves" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,255,0,0"/>
+        <TextBox x:Name="txttotal" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="138,287,0,0" IsEnabled="False"/>
+        <Label x:Name="lbltotal" Content="Total" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,283,0,0"/>
+        <Button x:Name="btnclear" Content="Clear" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="350,53,0,0" Click="btnclear_Click"/>
+        <Button x:Name="btncalc" Content="Calculate" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="350,114,0,0" Click="btncalc_Click" IsCancel="True"/>
+        <Label x:Name="lbllabel1" Content="Enter an Amount:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,18,0,0"/>
+        <Label x:Name="lbllabel2" Content="You Will Need:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="67,166,0,0"/>
+
+    </Grid>
+</Window>
